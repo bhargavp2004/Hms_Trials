@@ -1,0 +1,10 @@
+body{
+    background-image : url('templates/static/images/cloris-ying-QJMKyrud5l8-unsplash.jpg');
+    font-family : montserrat;
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+.behind_image{
+    background-color : rgb(205, 205, 205, 0.7);
+    padding : 200px;
+}
